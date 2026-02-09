@@ -1,7 +1,7 @@
 // src/AuthPage.jsx
 import React, { useState } from "react";
 import "./AuthPage.css";
-import { auth, db } from "./firebase";
+import { auth } from "./firebase";
 import { createUserWithEmailAndPassword, signInWithEmailAndPassword } from "firebase/auth";
 import { getDatabase, ref, set } from "firebase/database";
 import logo from "./LOGO.jpg"; 
