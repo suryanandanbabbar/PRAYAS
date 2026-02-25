@@ -1,4 +1,4 @@
-# PRAYAS : Prediction, Response And Yojana for Aapda Suraksha
+# PRAYAS : Prevention, Response And Yojana for Aapda Suraksha
 PRAYAS (Endeavor/Effort) is a comprehensive, AI-powered disaster management platform designed to build safer, flood-resilient communities in India. By integrating real-time meteorological data, digital elevation models, and historical community-driven inputs, PRAYAS provides a holistic solution for flood prediction, emergency response and transparent relief fund allocation.
 
 # Overview
